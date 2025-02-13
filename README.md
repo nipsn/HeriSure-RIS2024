@@ -6,3 +6,4 @@ Se trata de un sistema de detección de anomalías ambientales para la monitoriz
 
 El repositorio incluye el código del nodo final, el código de prueba de la pantalla de tinta electrónica, la memoria y las diapositivas de la presentación.
 
+Proyecto realizado por André Castillo Flores y Oscar Nydza Nicpoñ
